@@ -17,4 +17,4 @@ permalink: /:title/
 
 # Your website URL (e.g. https://forever-jekyll.github.io or https://forever-jekyll.com)
 # Used for Sitemap.xml and your RSS feed
-url: 'https://geometrification.github.io'
+url: https://geometrification.github.io
